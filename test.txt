@@ -1,0 +1,5 @@
+Hello my name is Kgaogelo
+My surname is Makgoba
+im x years old
+im a student at Univeristy of Johannesburg
+END
