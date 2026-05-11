@@ -78,5 +78,5 @@ How to apply STL tools (vector,map,stringstream,fstream)in a real project rather
 Limitations
 
 RSA works correctly for demonstration but uses standard integer sizes,real-world RSA uses much larger numbers requiring special big-integer libraries
-The hash function is suitable for learning but not production security — real password systems use dedicated algorithms like bcrypt
+The hash function is suitable for learning but not production security,real password systems use dedicated algorithms like bcrypt
 Console only - no GUI
